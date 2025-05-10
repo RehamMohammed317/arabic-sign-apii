@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+Pillow
+tensorflow==2.13.0
+mediapipe
+python-multipart
